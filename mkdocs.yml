@@ -14,6 +14,7 @@ nav:
     - Strategy Customization: strategy-customization.md
     - Strategy Callbacks: strategy-callbacks.md
     - Stoploss: stoploss.md
+    - Risk Control (风控方案): risk-control.md
     - Plugins: plugins.md
     - Start the bot: bot-usage.md
     - Control the bot:
